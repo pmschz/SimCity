@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#280F8C",
+			"titleBar.activeBackground": "#3815C5",
+			"titleBar.activeForeground": "#FCFCFF"
+		},
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	},
+	"launch": {
+		"configurations": [
+			{
+				"type": "cmake",
+				"request": "launch",
+				"name": "Debug portfile(s)",
+				"cmakeDebugType": "external",
+				"pipeName": "\\\\.\\pipe\\vcpkg_ext_portfile_dbg",
+				"preLaunchTask": "Debug vcpkg commands"
+			}
+		]
+	}
+}
