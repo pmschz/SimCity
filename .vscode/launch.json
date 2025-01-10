@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+<<<<<<< HEAD
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Paulina/SimCity Project",
+      "program": "c:/Users/Paulina/SimCity Project/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+=======
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/paulina/gitlab_project",
+      "program": "/Users/paulina/gitlab_project/build/Debug/outDebug"
+>>>>>>> main
+    }
+  ]
+}
