@@ -1,8 +1,4 @@
 CITY STIMULATION PROJECT
-Name: Paulina Sanchez
-ID: 11424431
-EUID: pms0108
-Email: paulinasanchez2@my.unt.edu
 
 OVERVIEW
 This project simulates the growth of a city over time.
